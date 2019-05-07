@@ -1,0 +1,9 @@
+1. Check Git version - git --version
+
+2. Initiate new repository - git init
+
+3. See the branch - git branch (by default branch is master)
+
+4. See the status - git status
+
+5. 

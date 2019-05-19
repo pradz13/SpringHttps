@@ -6,4 +6,14 @@
 
 4. See the status - git status
 
-5. 
+5. Add files to repository - git add .
+
+6. Commit - git commit -m "Commit message"
+
+7. New branch - git checkout -b develop (Creates a new branch called develop from master and switches to that branch)
+
+8. Connect to a remote repository - git remote add origin https://github.com/pradz13/SpringHttps.git
+
+9. Push - git push -u origin master
+
+10. Clone - git clone https://github.com/pradz13/PasswordManager.git
